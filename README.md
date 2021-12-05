@@ -12,10 +12,10 @@
 - Ver tu perfil y poder eliminar favoritos.
 
 - Filtro de busqueda:
-  .'any' te trae series o peliculas mezcladas
-  .'users' si lo dejas vacios buscas todos los usuario si pones un nombre en particular entras a su perfil
-  .'movies' busqueda solo para encontrar movies
-  .'series' busqueda solo para encontrar series
+  - any: te trae series o peliculas mezcladas
+  - users: si lo dejas vacios buscas todos los usuario si pones un nombre en particular entras a su perfil
+  - movies: busqueda solo para encontrar movies
+  - series: busqueda solo para encontrar series
 
 - Modificar perfil solo contrasenia o username podes modificar solo una o las dos a la vez.
 
