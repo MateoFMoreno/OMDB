@@ -5,7 +5,7 @@
 # Los estilos estan todos hechos para el modo oscuro me falta terminar el modo claro y hacerlo responsive
 
 
-# Funcionalidades:
+## Funcionalidades:
 
 - Buscar un usuario en particular y ver sus favoritos.
 
@@ -29,8 +29,10 @@
 
 - Iconos del footer cada uno con su redireccion github, linkedin, instagram y twitter tambien el home, about, contact, blog.
 
+- Validacion en el login y register
 
-# Aclaraciones:
+
+## Aclaraciones:
 
 - En el home muestro info de peliculas de otra api por eso no tienen para agregar a favoritos, en un futuro lo cambiare todo a esa
   api asi pueden tener esa funcionalidad.
