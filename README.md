@@ -1,6 +1,6 @@
 # Pasos para levantar la web y el server
 
-- Instalar dependencias en la carpate de backend y en la de frondend.
+- Instalar dependencias en la carpeta de backend y en la de frondend.
 
 - Levantar el server en el backend con npm start y levantar el frondend con npm start.
 
