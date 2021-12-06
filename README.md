@@ -1,8 +1,10 @@
-# Instalar dependencias en la carpate de backend y en la de frondend
+# Pasos para levantar la web y el server
 
-# Levantar el server en el backend con npm start y levantar el frondend con npm start
+- Instalar dependencias en la carpate de backend y en la de frondend.
 
-# Los estilos estan todos hechos para el modo oscuro me falta terminar el modo claro y hacerlo responsive
+- Levantar el server en el backend con npm start y levantar el frondend con npm start.
+
+- Los estilos estan todos hechos para el modo oscuro me falta terminar el modo claro y hacerlo responsive.
 
 
 ## Funcionalidades:
@@ -12,10 +14,10 @@
 - Ver tu perfil y poder eliminar favoritos.
 
 - Filtro de busqueda:
-  - any: te trae series o peliculas mezcladas
-  - users: si lo dejas vacios buscas todos los usuario si pones un nombre en particular entras a su perfil
-  - movies: busqueda solo para encontrar movies
-  - series: busqueda solo para encontrar series
+  - any: te trae series o peliculas mezcladas.
+  - users: si lo dejas vacios buscas todos los usuario si pones un nombre en particular entras a su perfil.
+  - movies: busqueda solo para encontrar movies.
+  - series: busqueda solo para encontrar series.
 
 - Modificar perfil solo contrasenia o username podes modificar solo una o las dos a la vez.
 
